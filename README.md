@@ -1,5 +1,7 @@
 # (POC) Envio de Pix via API com Golang, Siri e Gerencianet
 
+![](https://img.shields.io/github/go-mod/go-version/tuliospuri/enviar-pix?filename=src%2Fapp%2Fgo.mod)
+
 ## Como executar
 
 1. `./build.sh` para gerar a imagem Docker;
